@@ -16,6 +16,8 @@ public class Teste {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Ola");
+		
+		System.out.print("Muito boa tarde a todos que estão lendo :)");
 
 	}
 
